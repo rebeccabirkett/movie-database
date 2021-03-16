@@ -1,3 +1,19 @@
+Build an app that consumes the movie database api (https://api.themoviedb.org /3).
+
+Requirements:
+Home screen shows popular films.
+Search functionality (https://developers.themoviedb.org/3/search/search-movies)
+Styling of your choice but needs to be of a good quality.
+
+Optional Requirements:
+Toggle between popular, top-rated and latest movies on the home screen.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
